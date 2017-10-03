@@ -1,1 +1,1 @@
-everything is awesome
+This program prints "hello git"
